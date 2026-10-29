@@ -1,0 +1,43 @@
+name: Bug report
+description: Something in Takehome doesn't work or shows the wrong number.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Takehome.
+        **Please don't attach your real eBay report.** It contains your sales and buyer details. A screenshot with personal details covered is enough.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you see, and what did you expect to see?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to see it
+      description: For example, "1. Opened a 3-month report. 2. Clicked Orders. 3. ..."
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and computer
+      placeholder: "Chrome on Windows 11"
+    validations:
+      required: true
+  - type: dropdown
+    id: site
+    attributes:
+      label: Which eBay site is your report from?
+      options:
+        - eBay.com (US)
+        - eBay.co.uk (UK)
+        - Another eBay site
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot (optional)
+      description: Drag an image here. Cover any names, addresses or order numbers first.

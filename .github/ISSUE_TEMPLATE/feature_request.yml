@@ -1,0 +1,25 @@
+name: Feature request
+description: An idea that would make Takehome more useful for your selling.
+labels: ["feature request"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What would you like Takehome to do?
+      description: Describe what you're trying to find out or do, in your own words.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would it help?
+      description: For example, how you handle it today and what takes time.
+  - type: dropdown
+    id: seller
+    attributes:
+      label: How do you sell?
+      options:
+        - Part-time reseller
+        - Full-time reseller
+        - Small eBay shop or brand
+        - Other
