@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://takehomesellers.com/"><b>Website</b></a> &nbsp;|&nbsp;
   <a href="https://www.etsy.com/listing/4588417596"><b>Get Takehome</b></a> &nbsp;|&nbsp;
+  <a href="https://takehomesellers.com/ebay-fee-calculator"><b>Free eBay fee calculator</b></a> &nbsp;|&nbsp;
   <a href="docs/how-to-download-your-ebay-transaction-report.md"><b>Get your eBay report</b></a> &nbsp;|&nbsp;
   <a href="../../issues/new/choose"><b>Report a bug or ask for a feature</b></a>
 </p>
@@ -51,6 +52,15 @@ eBay pays out what's left after its fees. What your stock, packaging and refunds
 
 Works in Chrome, Edge, Firefox, Safari, Brave and DuckDuckGo on Windows and Mac.
 
+## Free tools for eBay sellers
+
+Want to check a single sale before you list it? These are free, with no sign-up:
+
+- **[Free eBay fee calculator](https://takehomesellers.com/ebay-fee-calculator)**: every eBay fee for a sale, what eBay pays you, your profit and your break-even price, for every eBay.com (US) category and Store level. It runs in your browser and nothing you type is sent anywhere.
+- **[Takehome connector for Claude](https://takehomesellers.com/claude)**: ask Claude what eBay will charge for a sale, what you will keep, what price gets you a target profit, or whether an eBay Store would save you money. Setup steps are on the page.
+
+Takehome does the same maths for every order in your eBay report at once.
+
 ## Get Takehome
 
 Takehome is a paid download (one-time payment, instant download).
@@ -77,6 +87,9 @@ No. Takehome is not a spreadsheet template. It opens in your browser and does th
 
 **Does it work outside the US?**
 It's tested with English-language eBay.com (US) reports. Other eBay sites may work, but aren't guaranteed yet.
+
+**Is there a free version?**
+Takehome itself is a paid download. For one sale at a time, the [free eBay fee calculator](https://takehomesellers.com/ebay-fee-calculator) shows every fee and your profit.
 
 **Is this accounting or tax advice?**
 No. It's a profit report to help you understand your selling.
